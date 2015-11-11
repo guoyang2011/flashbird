@@ -16,16 +16,17 @@ object RedisProvider {
     new JedisPool(config, host, port)
   }
   private def createRedisServer(server:String):(String,Int)={
+    println(server)
     val _s=server.split(":")
     if(_s.size>2) {
       val port=try{
         _s(1).toInt
       }catch{
-        case ex:Throwable=> 6100
+        case ex:Throwable=> 6379
       }
       (_s(0),port)
     }else{
-      ("localhost",6100)
+      ("localhost",6379)
     }
   }
 

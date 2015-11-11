@@ -32,6 +32,7 @@ object SqlProvider {
   }
   def noTransactionExec[ResultType](sql:String)(implicit result:GetResult[ResultType])={
     dbPool.withSession{implicit session=>
+      println(sql)
       sql"#$sql".as(result).list
     }
   }
@@ -39,6 +40,7 @@ object SqlProvider {
     dbPool.withTransaction{implicit session=>
       sqls.sortBy(_._1).map{kv=>
         val sql=kv._2
+        println(sql)
         sql"#$sql".as(result).list
       }
     }

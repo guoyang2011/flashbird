@@ -101,12 +101,15 @@ object FlashBirdConfig {
           if(_tmp.size>0) _tmp
           else defaultValue
         } catch {
-          case ex: Throwable => defaultValue
+          case ex: Throwable =>{
+            ex.printStackTrace()
+            defaultValue
+          }
         }
       } else defaultValue
     } else defaultValue
   }
-  def getRedisCacheServers(key:String="com.ancare.redis.cache.servers",defaultValues:List[String]=List("localhost:6603")):List[String]=toList(key,defaultValues)
+  def getRedisCacheServers(key:String="com.ancare.redis.cache.servers",defaultValues:List[String]=List("localhost:6379")):List[String]=toList(key,defaultValues)
 
   def getMysqlServerHosts(key:String="com.ancare.mysql.servers.hosts",defaultValue:String=""):String=toString(key,defaultValue)
 
