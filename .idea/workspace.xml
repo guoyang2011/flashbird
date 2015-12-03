@@ -1,0 +1,2006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88e2409d-8106-4ceb-a867-7fe3c4561496" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/fulls/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/thumbs/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/fulls/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/thumbs/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/fulls/03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/thumbs/03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/fulls/04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/thumbs/04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/fulls/05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/thumbs/05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/fulls/06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/thumbs/06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/fulls/07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/thumbs/07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/fulls/08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/thumbs/08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/ZTree/zTreeStyle/img/diy/1_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/ZTree/zTreeStyle/img/diy/1_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/ZTree/zTreeStyle/img/diy/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/ZTree/zTreeStyle/img/diy/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/ZTree/zTreeStyle/img/diy/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/ZTree/zTreeStyle/img/diy/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/ZTree/zTreeStyle/img/diy/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/ZTree/zTreeStyle/img/diy/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/ZTree/zTreeStyle/img/diy/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/ZTree/zTreeStyle/img/diy/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/media/Maid.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/media/Maid.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/img/Tulips.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/images/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/img/buttonsAndLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/fonts/fontawesome-social-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/fonts/fontawesome-social-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/fonts/fontawesome-social-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/ZTree/zTreeStyle/img/line_conn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/images/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/ZTree/zTreeStyle/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/images/overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/img/sprite.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/ZTree/zTreeStyle/img/zTreeStandard.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/ZTree/zTreeStyle/img/zTreeStandard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.rat-excludes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/app/controllers/AccountController.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/app/controllers/cn/changhong/lazystore/persistent/dao/AccountDao.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/app/controllers/cn/changhong/lazystore/backup/AdminAccountService.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/test/controllers/cn/changhong/lazystore/persistent/dao/AdminAcountDao$Test.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/app/controllers/AppsApplication.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/NettyChunkedFileTransfer/src/main/scala-2.10/cn/changhong/netty/file/ChunkFileDemo.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/DefaultResponseCode.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/test/FileTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/FlashBirdConfig.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/spark-ganglia-lgpl/src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/java8-tests/src/test/java/org/apache/spark/Java8APISuite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/java8-tests/src/test/java/org/apache/spark/streaming/Java8APISuite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/kinesis-asl/src/test/java/org/apache/spark/streaming/kinesis/JavaKinesisStreamSuite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/kinesis-asl/src/main/java/org/apache/spark/examples/streaming/JavaKinesisWordCountASL.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisCheckpointState.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisReceiver.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/kinesis-asl/src/test/scala/org/apache/spark/streaming/kinesis/KinesisReceiverSuite.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisRecordProcessor.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/kinesis-asl/src/main/scala/org/apache/spark/streaming/kinesis/KinesisUtils.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/kinesis-asl/src/main/scala/org/apache/spark/examples/streaming/KinesisWordCountASL.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/java8-tests/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/RedisProvider.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/SqlProvider.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala-2.10/StarHelloworld.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala-2.10/Start.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala-2.10/TestExcutores.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/app/controllers/TopicApp.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/app/controllers/cn/changhong/lazystore/persistent/dao/TopicPositionDao.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/app/controllers/cn/changhong/lazystore/controller/Bean/TopicTemplateManager.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/UserDefinedGetResult.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/app/controllers/cn/changhong/lazystore/backup/Util.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/account.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/app/views/account/account.scala.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/js/audioPlayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_datepicker/css/bootstrap-datetimepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_datepicker/css/bootstrap-datetimepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_datepicker/js/bootstrap-datetimepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/css/bootstrap-select.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/css/bootstrap-select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/bootstrap-select.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/bootstrap-select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/css/bootstrap-select.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/bootstrap-select.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-ar-SA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-ar-SA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/extensions/cookie/bootstrap-table-cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/extensions/cookie/bootstrap-table-cookie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-cs-CZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-cs-CZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-da-DK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-da-DK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-de-DE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-de-DE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/extensions/editable/bootstrap-table-editable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/extensions/editable/bootstrap-table-editable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-el-GR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-el-GR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-en-US.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-en-US.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-es-AR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-es-AR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-es-CR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-es-CR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-es-MX.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-es-MX.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-es-NI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-es-NI.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-es-SP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-es-SP.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/extensions/export/bootstrap-table-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/extensions/export/bootstrap-table-export.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/extensions/filter/bootstrap-table-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/extensions/filter/bootstrap-table-filter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/extensions/flatJSON/bootstrap-table-flatJSON.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/extensions/flatJSON/bootstrap-table-flatJSON.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-fr-BE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-fr-BE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-fr-FR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-fr-FR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-hu-HU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-hu-HU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-it-IT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-it-IT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-ja-JP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-ja-JP.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-ka-GE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-ka-GE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-ko-KR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-ko-KR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-ms-MY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-ms-MY.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-nb-NO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-nb-NO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-nl-NL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-nl-NL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-pl-PL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-pl-PL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-pt-BR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-pt-PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-pt-PT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/extensions/resizable/bootstrap-table-resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/extensions/resizable/bootstrap-table-resizable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-ro-RO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-ru-RU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-ru-RU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-sk-SK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-sk-SK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-sv-SE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-sv-SE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-th-TH.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-th-TH.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/extensions/toolbar/bootstrap-table-toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/extensions/toolbar/bootstrap-table-toolbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-tr-TR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-tr-TR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-uk-UA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-uk-UA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-ur-PK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-ur-PK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-vi-VN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-vi-VN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-zh-CN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/locale/bootstrap-table-zh-TW.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/bootstrap-table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/bootstrap-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/bootstrap-table.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/bootstrap-table.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/extensions/sorting/bootstrap-table_natural-sorting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_table/extensions/sorting/bootstrap-table_natural-sorting.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/js/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-bg_BG.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-bg_BG.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-cs_CZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-cs_CZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-de_DE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-de_DE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-en_US.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-en_US.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-es_CL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-es_CL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-eu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-fr_FR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-fr_FR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-hu_HU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-hu_HU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-it_IT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-it_IT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-nl_NL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-nl_NL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-pl_PL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-pl_PL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-pt_BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-pt_BR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-ro_RO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-ro_RO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-ru_RU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-ru_RU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-sl_SI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-sl_SI.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-sv_SE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-sv_SE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-tr_TR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-tr_TR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-ua_UA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-ua_UA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-zh_CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-zh_CN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-zh_TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap_select/js/i18n/defaults-zh_TW.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/stylesheets/diymeicmod_012main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/fonts/fontawesome-social-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/js/ie8AndBelow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/app/views/index.scala.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/index1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/js/jquery.poptrox-2.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/ZTree/jquery.ztree.core-3.5.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/java8-tests/src/test/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/kinesis-asl/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/kinesis-asl/src/test/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/app/views/main.scala.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../make-distribution.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/moments/moment-with-locales.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/java8-tests/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/kinesis-asl/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../extras/spark-ganglia-lgpl/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/skel-noscript.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/js/skel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/js/sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/style-desktop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/style-mobile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/style-noscript.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/app/views/dd/test.scala.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/test/test.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem/public/ZTree/zTreeStyle/zTreeStyle.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/Controllers/build.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/Controllers/project/plugins.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/Controllers/src/main/scala/cn/changhong/controllers/Beans.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/Controllers/src/main/scala/cn/changhong/controllers/ChCareBaseController.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/Controllers/src/main/scala/cn/changhong/persistent/DBManager.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/Controllers/src/main/scala/cn/changhong/persistent/Dao/UserDao.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/Controllers/src/main/scala/cn/changhong/persistent/Tables/Tables.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/Controllers/src/main/scala/cn/changhong/persistent/script/AutoGen.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/Controllers/src/main/scala/cn/changhong/persistent/script/db.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/Router/build.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/Router/project/plugins.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/Util/build.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/Util/project/plugins.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/Util/src/main/scala/cn/changhong/util/Logging.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/Util/src/main/scala/cn/changhong/util/Seriable.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/build.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/orm/build.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/orm/project/plugins.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/orm/src/main/scala/cn/changhong/persistent/DBManager.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/orm/src/main/scala/cn/changhong/persistent/Dao/UserDao.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/orm/src/main/scala/cn/changhong/persistent/Tables/Tables.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/orm/src/main/scala/cn/changhong/persistent/script/AutoGen.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/orm/src/main/scala/cn/changhong/persistent/script/db.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/project/plugins.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/project/project/Build.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/src/main/resources/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BaseServer/src/main/scala/cn/changhong/main/util/LoggingManager.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/Server.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/build.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/project/plugins.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/SecureChatServer.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/chcare/core/webapi/Seriable.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/chcare/core/webapi/Tables.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/chcare/core/webapi/bean/ChCareFileInstream.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/chcare/core/webapi/util/HttpRequestException.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/chcare/core/webapi/util/IHttpRestApi.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/EchoServer.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/ExampleServer.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/FibonacciCalculator.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/fibonacci/Netty3.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/http/CompressFile.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/http/EntityFactory.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/http/FileCheckSum.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/http/FileChunk.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/http/FileStreamService.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/http/HttpRestServer.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/http/HttpStreamService.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/http/MyAuth2Server.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/http/OAuth2Server.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/http/RegexTest.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/http/client/FileClient.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/http/oauth2.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/finagle/myfinagleDemo/EchoServer.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/orm/BaseOrm.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/orm/CodeGen.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/orm/Tables.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/changhong/orm/Tables/Tables.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/commercial/controller/AccountService.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/commercial/controller/AutoService.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/commercial/controller/FamilyService.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/commercial/controller/Router.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/commercial/model/Dao.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/commercial/model/ResponseBean.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/commercial/util/FileUtil.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/cn/commercial/util/Seriable.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Server/src/main/scala/com/changhong/orm/Tables/Tables.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../SparkTemplate/build.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../SparkTemplate/project/plugins.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../SparkTemplate/src/main/scala/cn/changhong/spark/demo/demo.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../SparkTutorial" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Start/build.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Start/project/plugins.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Start/src/main/scala/Start.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../StartPlay2/build.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../StartPlay2/project/plugins.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/plugins.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tagsort.data" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Scala-Reflect-Template" afterPath="$PROJECT_DIR$/../Scala-Reflect-Template" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lazystore" afterPath="$PROJECT_DIR$/../lazystore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThriftDemo/src/main/scala/cn/changhong/ClientTest.scala" afterPath="$PROJECT_DIR$/../ThriftDemo/src/main/scala/cn/changhong/ClientTest.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThriftDemo/src/main/scala/cn/changhong/core/IndexNewsOperatorServices$FinagleService.scala" afterPath="$PROJECT_DIR$/../ThriftDemo/src/main/scala/cn/changhong/core/IndexNewsOperatorServices$FinagleService.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThriftDemo/src/main/scala/cn/changhong/Server.scala" afterPath="$PROJECT_DIR$/../ThriftDemo/src/main/scala/cn/changhong/Server.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AOPDemo/src/main/scala/Start.scala" afterPath="$PROJECT_DIR$/../AOPDemo/src/main/scala/Start.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThriftDemo/src/main/scala/cn/changhong/thrift/Start.scala" afterPath="$PROJECT_DIR$/../ThriftDemo/src/main/scala/cn/changhong/thrift/Start.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../diary/log.diary.rtfd/TXT.rtf" afterPath="$PROJECT_DIR$/../diary/log.diary.rtfd/TXT.rtf" />
+    </list>
+    <ignored path="Manifest_Template.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="flashbird" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+            </PATH>
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Manifest_Template" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Controller.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/Controller.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Authorization.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/authorization/Authorization.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
+              <folding>
+                <element signature="e#52#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlashBirdConfig.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/FlashBirdConfig.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="93.03333">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonParser.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/JsonParser.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StarHelloworld.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala-2.10/StarHelloworld.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringFilter.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala-2.10/StringFilter.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Start.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/scala-2.10/Start.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.44880176">
+              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestExcutores.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala-2.10/TestExcutores.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorldController.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala-2.10/HelloWorldController.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/util/JsonParser.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/framework/HttpFilter.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/framework/FilterHandler.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/framework/RouterService.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/framework/ControllerFilter.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/framework/request/DefaultRequest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/util/exception.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/framework/Controller.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/framework/request/FullDecoderRequest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/framework/request/DynamicPathParamsRequest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/framework/RouterPool.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/framework/Response.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/framework/ResponseContent.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/framework/RouterHandler.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/framework/HttpService.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/framework/Router.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/cn/bird/http/util/util.scala" />
+        <option value="$PROJECT_DIR$/.idea/.name" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/ResponseContent.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/RouterPool.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/db/Pool.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/db/SlickResultMap.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/db/UserDefinedGetResult.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/db/SqlProvider.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/DefaultResponseCode.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala-2.10/TestExcutores.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/UserDefinedGetResult.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/util.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/ControllerFilter.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala-2.10/TestFramework.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala-2.10/HelloWorldController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/JsonParser.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/request/DefaultRequest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/request/DynamicPathParamsRequest.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/SMS.java" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/test/scala-2.10/StarHelloworld.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala-2.10/Start.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/FlashBirdStart.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/exception.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/SqlProvider.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/Tools.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/RedisProvider.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/HttpService.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/AuthorizationProvider.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/Controller.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/Router.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/FlashBirdConfig.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/authorization/Authorization.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala-2.10/StringFilter.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala-2.10/StartHe.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="165" />
+    <option name="y" value="23" />
+    <option name="width" value="1436" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-2.10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-2.10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestExcutores.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-2.10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Start.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-2.10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HelloWorldController.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-2.10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-2.10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-2.10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-2.10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-2.10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="authorization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Authorization.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flashbird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lazystoreproject/platform/lzbackup" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Start">
+    <configuration default="false" name="TestFramework" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="TestFramework" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="manifest_template" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SqlProvider" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.flashbird.http.framework.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.flashbird.http.util.SqlProvider" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="flashbird" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestExcutores" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="TestExcutores" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="flashbird" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="StarHelloworld" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="StarHelloworld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="flashbird" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Start" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Start" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="flashbird" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.TestFramework" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SqlProvider" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestExcutores" />
+      <item index="3" class="java.lang.String" itemvalue="Application.StarHelloworld" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Start" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Start" />
+        <item index="1" class="java.lang.String" itemvalue="Application.StarHelloworld" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestFramework" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestExcutores" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SqlProvider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1446431375689" />
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="flashbird" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="flashbird" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="flashbird-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Downloads/hello-kafka" value="1434542058000" />
+        <entry key="$PROJECT_DIR$" value="1446430599000" />
+        <entry key="$PROJECT_DIR$/../lazystore" value="1423188759000" />
+        <entry key="$PROJECT_DIR$/../lazystoreproject/platform/lazystore_managersystem" value="1428086133000" />
+        <entry key="$PROJECT_DIR$/../lazystoreproject/platform/lazystoreprojecttest" value="1429602999000" />
+        <entry key="$PROJECT_DIR$/../zk_client_template" value="1441639407000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88e2409d-8106-4ceb-a867-7fe3c4561496" name="Default" comment="" />
+      <created>1442540614780</created>
+      <option name="number" value="Default" />
+      <updated>1442540614780</updated>
+      <workItem from="1442540621951" duration="12226000" />
+      <workItem from="1442800752189" duration="63291000" />
+      <workItem from="1443166206649" duration="191000" />
+      <workItem from="1443166412815" duration="29789000" />
+      <workItem from="1444278902203" duration="43070000" />
+      <workItem from="1445821615571" duration="25973000" />
+      <workItem from="1445995192300" duration="4763000" />
+      <workItem from="1446024263896" duration="34769000" />
+      <workItem from="1446431329756" duration="459000" />
+      <workItem from="1446444522831" duration="15249000" />
+      <workItem from="1447074357425" duration="1773000" />
+      <workItem from="1447124548070" duration="1212000" />
+      <workItem from="1447229273557" duration="140000" />
+      <workItem from="1447229443058" duration="57000" />
+      <workItem from="1447233638493" duration="1108000" />
+      <workItem from="1447298442406" duration="1723000" />
+      <workItem from="1447307720326" duration="4367000" />
+      <workItem from="1447382902971" duration="2656000" />
+      <workItem from="1447397301595" duration="2499000" />
+      <workItem from="1447923892348" duration="65000" />
+      <workItem from="1448000362229" duration="3849000" />
+      <workItem from="1448362636532" duration="96000" />
+      <workItem from="1449037200745" duration="911000" />
+      <workItem from="1449041606453" duration="11167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="261403000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="165" y="23" width="1436" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3737245" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3986842" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34149855" sideWeight="0.48607594" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32780612" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.042507205" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3220461" sideWeight="0.51392406" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25765306" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19380404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29078948" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32894737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3986842" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.042507205" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/Router.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/RedisProvider.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/SqlProvider.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/Tools.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/UserDefinedGetResult.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/util.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/FlashBirdConfig.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="111" column="20" selection-start-line="111" selection-start-column="20" selection-end-line="111" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/HttpService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/RouterPool.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/Router.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/ResponseContent.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58105266">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/request/DynamicPathParamsRequest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/io/OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala-2.10/TestFramework.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/request/DefaultRequest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70947367">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5263158">
+          <caret line="396" column="7" selection-start-line="396" selection-start-column="7" selection-end-line="396" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/rt.jar!/sun/security/provider/MD5.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35114503">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/CharacterEncoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.114504">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/BASE64Encoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06361323">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/ControllerFilter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3875598">
+          <caret line="235" column="18" selection-start-line="235" selection-start-column="18" selection-end-line="235" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/exception.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/DefaultResponseCode.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3319838">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/FlashBirdStart.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/RouterPool.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5597345">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.10176991">
+          <caret line="1778" column="26" selection-start-line="1778" selection-start-column="26" selection-end-line="1778" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.3443527">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.572727">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.4-sources.jar!/scala/collection/TraversableOnce.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48366013">
+          <caret line="315" column="35" selection-start-line="315" selection-start-column="35" selection-end-line="315" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/SqlProvider.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44880176">
+          <caret line="54" column="34" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/util.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6013072">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/UserDefinedGetResult.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39869282">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/Tools.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.4-sources.jar!/scala/Function1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/Router.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24836601">
+          <caret line="69" column="37" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
+          <folding>
+            <element signature="e#38#101#0" expanded="true" />
+            <element signature="e#707#1421#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/HttpService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/RedisProvider.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/redis.clients/jedis/srcs/jedis-2.6.1-sources.jar!/redis/clients/jedis/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/redis.clients/jedis/srcs/jedis-2.6.1-sources.jar!/redis/clients/jedis/Jedis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4335512">
+          <caret line="131" column="12" selection-start-line="131" selection-start-column="12" selection-end-line="131" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/Controller.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/framework/authorization/Authorization.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
+          <folding>
+            <element signature="e#52#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/FlashBirdConfig.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="93.03333">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.10/com/flashbird/http/util/JsonParser.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala-2.10/HelloWorldController.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala-2.10/StarHelloworld.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala-2.10/TestExcutores.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala-2.10/StringFilter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala-2.10/StartHe.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25054467">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala-2.10/Start.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44880176">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.10.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>flashbird</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>SBT: com.github.nscala-time:nscala-time_2.10:1.0.0:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

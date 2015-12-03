@@ -32,6 +32,7 @@ class HttpService(routers:ArrayBuffer[Router[_,_]]) extends Service[Request,Resp
   override def apply(request: Request): Future[Response] = {
     Future.value {
 
+        println(request.headerMap.mkString(","))
         val methodHandlers = servers.get(request.method)
         methodHandlers match {
           case Some(r) => {

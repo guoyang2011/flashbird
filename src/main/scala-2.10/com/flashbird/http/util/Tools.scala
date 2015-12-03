@@ -29,18 +29,23 @@ object Tools {
     res
   }
   def shortFileStorage(bytes:Array[Byte],filename:Option[String]):Option[String]={
-    val storageFileName=UUID.randomUUID().toString.replaceAll("-","")
-    val path=FlashBirdConfig.getServerStorageLocalDir()+storageFileName
-    val outStream=new FileOutputStream(new File(path))
+    val storageFileName=UUID.randomUUID().toString.replaceAll("-","")+getFilenameAndExtensins(filename.getOrElse("default"))._2
+    val file=new File(FlashBirdConfig.getServerStorageLocalDir(),storageFileName)
+    val outStream=new FileOutputStream(file)
     try{
       outStream.write(bytes)
-      val proxyPath=FlashBirdConfig.getNginxFileStorageProxyUrl()+storageFileName
+      val proxyPath=FlashBirdConfig.getNginxFileStorageProxyUrl()+"/"+storageFileName
       Some(proxyPath)
     }catch{
       case ex:Throwable=>None
     }finally {
       unsafeCloseStream(outStream)
     }
+  }
+  def getFilenameAndExtensins(filename:String):(String,String)={
+    val index=filename.lastIndexOf(".")
+    if(index== -1) (filename,".default")
+    else filename.splitAt(index)
   }
   def unsafeCloseStream(stream:Closeable): Unit ={
     try{

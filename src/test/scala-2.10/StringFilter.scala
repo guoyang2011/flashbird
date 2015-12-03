@@ -9,8 +9,9 @@ import com.twitter.util.Future
 /**
  * Filter Chain 作用按照定义的Chain链对输入数据进行过滤或预处理,对于Filter过滤条件的进行放行
  *
- */
-
+ *
+ * */
+import StartHe._
 object StringFilter extends App{
   type Service[ReqIn,RepOut]= (ReqIn)=>RepOut
   type FilterHandler[ReqIn,RepOut]=(ReqIn,Service[ReqIn,RepOut])=>RepOut
@@ -36,7 +37,8 @@ object StringFilter extends App{
 
   val filter1=new SimpleFilter[String,String] {
     override def apply(v1: String, v2: Service[String, String]): String = {
-      println("filter1")
+
+      ""
       v2(v1+"filter1")
     }
   }

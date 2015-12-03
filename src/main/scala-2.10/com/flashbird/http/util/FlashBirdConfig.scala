@@ -26,6 +26,7 @@ object FlashBirdConfig {
   }
   def apply(config:java.util.Map[String,AnyRef]):Unit={
     _config=config
+    println(JsonParser.objectToJsonStringParser(_config))
   }
 
   def getServerName(key:String="com.ancare.name",defaultValue:String="ancare-01"):String=toString(key,defaultValue)
@@ -86,8 +87,8 @@ object FlashBirdConfig {
   }
   def getServerConnectIsKeepAlived(key:String="com.ancare.server.connect.keepalive",defaultValue:Boolean=false):Boolean=toBoolean(key,defaultValue)
 
-  def getServerStorageLocalDir(key:String="com.ancare.storage.local.dir",defaultValue:String="/usr/local/share/nginx/storage/"):String=toString(key,defaultValue)
-  def getNginxFileStorageProxyUrl(key:String="com.ancare.nginx.filestorage.proxy.url",defaultValue:String="http://localhost:10001"):String=toString(key,defaultValue)
+  def getServerStorageLocalDir(key:String="com.ancare.storage.local.dir",defaultValue:String="/usr/share/nginx/html/lazystore/img_store/ancare"):String=toString(key,defaultValue)
+  def getNginxFileStorageProxyUrl(key:String="com.ancare.nginx.filestorage.proxy.url",defaultValue:String="http://chphone.cn:8085/ancare"):String=toString(key,defaultValue)
 
   def getValue(key:String,defaultValue:String):String=toString(key,defaultValue)
   def getValue(key:String,defaultValue:List[String]):List[String]=toList(key,defaultValue)
@@ -117,22 +118,31 @@ object FlashBirdConfig {
   def getMysqlServerUserName(key:String="com.ancare.mysql.servers.username",defaultValue:String=""):String=toString(key,defaultValue)
   def getMysqlServerUserPwd(key:String="com.ancare.mysql.servers.password",defaultValue:String=""):String=toString(key,defaultValue)
 
-  def getRequestHeaderAuthorizationKey(key:String="com.ancare.authorization.key",defaultValue:String="com.ancare.authorization.key"):String=toString(key,defaultValue)
+  def getRequestHeaderAuthorizationKey(key:String="com.ancare.authorization.key",defaultValue:String="Authorization"):String=toString(key,defaultValue)
 
   def getSMSVerifyCodeExpiredTime(key:String="com.ancare.server.user.register.verifycode.expired",defaultValue:Int=300)=toInt(key,defaultValue)
 
   def getTokenExpiredTime(key:String="com.ancare.server.user.token.expired",defaultValue:Int=86400):Int=toInt(key,defaultValue)
 
 
-  private[this] var routerIsAuth:Boolean=false
+  private[this] var routerIsAuth:Boolean=true
 
   def setRouterIsAuth(boolean: Boolean)=routerIsAuth=boolean
   def getRouterIsAuth()=routerIsAuth
 
   private var authProvider:Authorization=null
-  def getAuthProvider()={
-    if(authProvider==null) authProvider=new DefaultRedisAuthorizationProvider
+  def getAuthProvider(key:String="com.flashbird.http.framework.authorization",defaultValue:Authorization=new DefaultRedisAuthorizationProvider)={
+    if(authProvider==null) authProvider=try {
+      val clsName=getValue(key,"com.flashbird.http.framework.authorization.DefaultRedisAuthorizationProvider")
+      val cls=Class.forName(clsName)
+      cls.newInstance().asInstanceOf[Authorization]
+    }catch{
+      case ex:Throwable=> new DefaultRedisAuthorizationProvider
+    }
     authProvider
+  }
+  def getMaxLoginUserCount(key:String="com.flashbird.framework.max.login.size",defaultValue:Int=1):Int={
+    getValue(key,defaultValue)
   }
 
 

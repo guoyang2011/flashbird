@@ -10,6 +10,14 @@ import scala.slick.jdbc.{GetResult, StaticQuery => Q}
  */
 object SqlProvider {
   import scala.slick.driver.MySQLDriver.simple._
+
+  private final val unsafeSQLWord="!@|#$%^&*()\"\'\\[]{}+.=?"
+  def checkUnSafeWord(params:String)= {
+    params.map { ch =>
+      if (unsafeSQLWord.contains(ch)) "\\" + ch
+      else ch
+    }.mkString
+  }
   private lazy val dbPool={
     val hostAndPort=FlashBirdConfig.getMysqlServerHosts()
     val databaseName=FlashBirdConfig.getMysqlServerDatabaseName()
@@ -38,12 +46,14 @@ object SqlProvider {
   }
   def transactionExec[ResultType](sqls:List[(Int,String)])(implicit result:GetResult[ResultType])={
     dbPool.withTransaction{implicit session=>
-      sqls.sortBy(_._1).map{kv=>
-        val sql=kv._2
-        println(sql)
-        sql"#$sql".as(result).list
+      try {
+        sqls.sortBy(_._1).map { kv =>
+          val sql = kv._2
+          sql"#$sql".as(result).list
+        }
+      }catch{
+        case ex:Throwable=>session.rollback()
       }
     }
   }
-
 }
